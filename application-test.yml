@@ -1,2 +1,2 @@
 spring:
-  port:8001  #dev-test
+  port:8001  dev-test
